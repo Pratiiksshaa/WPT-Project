@@ -1,0 +1,225 @@
+
+.body{
+
+   
+    text-align: center;
+    background-color:white ;
+    font-style: italic;
+    
+
+}  
+.top{
+
+    text-align: center ;
+    text-align: center;
+    background-color:white ;
+    font-style: italic;
+  
+     
+
+}  
+
+.cbox{
+    border: 1x solid;
+    height: 180vh;
+  text-align: center;
+ background-color:#E2F3F3;
+
+}
+
+.dbox{
+    height:52vh;
+
+    text-align:center;
+     color: black; 
+    font-size: 25px;
+    font-family: cursive;
+}
+
+
+.image_shadow
+{
+    box-shadow: 2px 2px 20px -6px black !important;
+} 
+.btn{
+    color: #177;
+    background-color :rgba(154, 224, 241, 0.863) !important;
+    font-size: 15px;
+    cursor:pointer;
+    
+}
+
+
+#explore
+{
+    text-align: center;
+    background-color: #e2f3f3;
+    text-align: center;
+   color: #117777;
+   border-radius: 2px; 
+   padding: 10px;
+   margin-left: 350px;
+   width:500px;
+}
+.btn:hover
+{
+    color:rgb(3, 5, 15);
+    background-color:rgba(233, 240, 239, 0.884) !important;
+}
+
+.img-design {
+
+ width: 100%; 
+
+height: 250px;
+background-color: white;
+}
+
+.text-muted {
+    font-size: 10px;
+    text-align: left;
+}
+
+
+.mybox{
+   background-color:white;
+  
+   
+}  
+
+ .mybox:hover{
+
+    box-shadow:5px 5px 10px yellowgreen !important ;
+    
+
+
+} 
+
+
+.main_body
+{
+    margin-top: 110px;
+}
+
+
+
+/* for footar */
+
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .footer {
+    display: flex;
+    align-items: center;
+    margin-top: 3rem;
+    line-height: 2rem;
+    border-top: 1px solid black;
+    font-family: "Frank Ruhl Libre", serif;
+    background-color: #E2F3F3;
+  }
+  .logo {
+    height: 15rem;
+    width: 18rem;
+    padding-left: 2rem;
+    margin-right: 25rem;
+  }
+  #ready-to-cook {
+    font-size: 3.69vh;
+    font-weight: 500;
+  }
+  #newsletter {
+    font-family: "Roboto", sans-serif;
+    color: #222222;
+    font-weight: 500;
+  }
+  .input-button {
+    height: 2.5rem;
+    width: 6rem;
+    background-color: #009578;
+    border: none;
+    border-radius: 10px;
+    font-family: "Frank Ruhl Libre";
+    font-weight: 600;
+    color: white;
+    letter-spacing: 0.0875rem;
+  }
+  .friends {
+    font-family: roboto;
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.0175rem;
+  }
+  .navbaritems li {
+    font-family: "Roboto", sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+  
+    list-style: none;
+    text-transform: uppercase;
+  }
+  .navbaritems li a {
+    text-decoration: none;
+  }
+  .items {
+    font-family: "Roboto", sans-serif;
+    font-size: 0.875rem;
+    color: #666666;
+  }
+  .items li {
+    list-style: none;
+  }
+  .column-1 {
+    width: 40%;
+  }
+  .third_foot {
+    margin-left: 200px;
+    width: 40%;
+  }
+  .column-m {
+    width: 20%;
+  }
+  
+  .header {
+    width: 100%;
+    height: 10vh;
+    font-weight: 500;
+    background-color: #e2f3f3 !important;
+  }
+
+  .hover_line:hover {
+    border-bottom: 3px solid black !important;
+    color: black;
+  }
+
+  .bg_drop:hover {
+    background-color: #e2f3f3 !important;
+  }
+
+  .hover_line {
+    border-bottom: 3px solid transparent !important;
+    text-decoration: none;
+    color: black;
+  }
+  .search {
+    background-color: transparent !important;
+    outline: none !important;
+    box-shadow: none !important;
+    border: none !important;
+    border-bottom: 1px solid black !important;
+  }
+  .search::placeholder {
+    padding-left: 5px;
+    letter-spacing: 2px;
+  }
+  .search-btn {
+    background-color: transparent !important;
+    border: 1px solid black !important;
+  }
+
+  .navbar1 {
+    background-color: #e2f3f3;
+  }
+
+

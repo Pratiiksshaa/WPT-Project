@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.footer {
+  display: flex;
+  align-items: center;
+  margin-top: 3rem;
+  line-height: 2rem;
+  border-top: 1px solid black;
+  font-family: "Frank Ruhl Libre", serif;
+}
+.logo {
+  height: 15rem;
+  width: 18rem;
+  padding-left: 2rem;
+  margin-right: 25rem;
+}
+#ready-to-cook {
+  font-size: 3.69vh;
+  font-weight: 500;
+}
+#newsletter {
+  font-family: "Roboto", sans-serif;
+  color: #222222;
+  font-weight: 500;
+}
+.input-button {
+  height: 2.5rem;
+  width: 6rem;
+  background-color: #009578;
+  border: none;
+  border-radius: 10px;
+  font-family: "Frank Ruhl Libre";
+  font-weight: 600;
+  color: white;
+  letter-spacing: 0.0875rem;
+}
+.friends {
+  font-family: roboto;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.0175rem;
+}
+.navbaritems li {
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+
+  list-style: none;
+  text-transform: uppercase;
+}
+.navbaritems li a {
+  text-decoration: none;
+}
+.items {
+  font-family: "Roboto", sans-serif;
+  font-size: 0.875rem;
+  color: #666666;
+}
+.items li {
+  list-style: none;
+}
+.column-1 {
+  width: 40%;
+}
+.third_foot {
+  margin-left: 200px;
+  width: 40%;
+}
+.column-m {
+  width: 20%;
+}
